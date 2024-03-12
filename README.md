@@ -8,7 +8,7 @@ Você tem um novo hobby: **criar plantas carnívoras**. Você encontrou um
 documento solto em um antigo livro do seu tio Epaminondas e, depois de lê-lo,
 decidiu **criar uma página web com seu conteúdo**. Além disso, você também tem
 uma **pequena loja de sementes** dessas plantas e deseja divulgá-la em uma
-página web.
+página web. adsadasd
 
 ### Exercício 1
 
